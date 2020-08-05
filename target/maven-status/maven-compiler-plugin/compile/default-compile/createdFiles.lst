@@ -1,0 +1,9 @@
+com\app\domain\User.class
+com\app\ProjectBoardApplication.class
+com\app\web\ProjectTaskController.class
+com\app\services\ProjectTaskService.class
+com\app\web\UserController.class
+com\app\domain\ProjectTask.class
+com\app\services\UserService.class
+com\app\repository\ProjectTaskRepository.class
+com\app\repository\UserRepository.class
